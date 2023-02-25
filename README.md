@@ -17,7 +17,7 @@ $ yarn watch # npm run watch
 
 This game is a Refactory of a project from [Scrimba FrontEnd Pro Course](https://scrimba.com/learn/frontend)
 
-[Demo](https://calm-moonbeam-29bc7d.netlify.app/)
+See Demo [HERE](https://calm-moonbeam-29bc7d.netlify.app/)
 
 Game view
 
