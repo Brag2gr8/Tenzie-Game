@@ -21,4 +21,4 @@ This game is a Refactory of a project from [Scrimba FrontEnd Pro Course](https:/
 
 Game view
 
-[Screenshot 2023-02-25 at 11 31 51 AM](https://user-images.githubusercontent.com/58727101/221352170-0fd976b7-bcb7-4eb7-93a1-49b3d62efa26.png)
+![Screenshot 2023-02-25 at 11 31 51 AM](https://user-images.githubusercontent.com/58727101/221352170-0fd976b7-bcb7-4eb7-93a1-49b3d62efa26.png)
